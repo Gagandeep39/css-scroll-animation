@@ -13,6 +13,7 @@ body {
   align-items: center;
   /* Muve to center vertcally */
   justify-content: center;
+  overflow-x: hidden;
 }
 
 h1 {
